@@ -35,5 +35,13 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 Dê um duplo clique no arquivo index.html ou arraste-o para a janela do navegador de sua escolha.
   
+## ✉️ Contato
+
+Para acompanhar meu trabalho e entrar em contato comigo, visite meus perfis nas redes sociais:
+
+- [GitHub](https://github.com/pedrordcampos)  
+- [LinkedIn](https://www.linkedin.com/in/pedro-ricardo-de-campos/)  
+- [Instagram](https://www.instagram.com/pedrordcampos75/)  
+
 
 
