@@ -4,6 +4,8 @@
 
 O projeto **Mundo Invertido** é uma aplicação web interativa desenvolvida como parte do curso de Front-end na DIO (Digital Innovation One). Inspirado na popular série **Stranger Things**, este projeto oferece uma experiência única que combina design envolvente com interatividade, permitindo que os usuários explorem dois mundos distintos através da troca de temas e músicas de fundo.
 
+Você pode ver o projeto [clicando aqui](https://pedrordcampos.github.io/projeto-mundo-invertido/)
+
 ## Funcionalidades
 
 - **Alternância de Temas:** Troque entre um tema claro e um tema escuro com um único clique.
