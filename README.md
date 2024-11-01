@@ -25,7 +25,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seuusuario/mundo-invertido.git
+   git clone https://github.com/pedrordcampos/projeto-mundo-invertido.git
    ````
 2. Acesse o diretório do projeto:
     ```bash
